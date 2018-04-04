@@ -5,9 +5,7 @@ makedir.dir allows users to automatically create the Tomcat Directory Structure 
 2. Enter the name of root directory that you want to create
 
 The file will create the directory structure for you with the given name as follows
-```
-context-root
-	WEB-INF
-		classes
-		lib
-```
+- context-root
+  - WEB-INF
+    - classes
+    - lib
